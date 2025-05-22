@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\LessonTable_CRUD_API.props" />
+</Project>
